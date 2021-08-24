@@ -16,6 +16,6 @@ print(f'The user entered {alphabet}')
 alphabetL = alphabet.lower()
 
 if alphabetL in 'a e i o u':
-    print(f'The letter {alphabet} is a vowel')
+    print(f"The letter '{alphabet}' is a vowel")
 else:
-    print(f'The letter {alphabet} is a consonant')
+    print(f"The letter '{alphabet}' is a consonant")
